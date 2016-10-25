@@ -1,10 +1,8 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Noah/Scripts/FirstPersonController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Noah/Scripts/Camera.cs">
     <Files>
       <File FileName="Assets/Noah/Scripts/Camera.cs" Line="18" Column="2" />
-      <File FileName="Assets/Noah/Scripts/MouseLook.cs" Line="18" Column="3" />
-      <File FileName="Assets/Noah/Scripts/FirstPersonController.cs" Line="4" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
