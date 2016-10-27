@@ -4,8 +4,18 @@ using System.Collections;
 
 public class UpgradeButton : MonoBehaviour {
 
-	public void UpgradeHealth(){
-		Debug.Log ("Geklikt");
+	PlayerStats player;
+
+
+	public void Awake(){
+		player = GameObject.Find("Player").GetComponent<PlayerStats>();
+	}
+
+
+	public void OnClick(){
+		player.PlayerChopSpeed += 10;
+
+
 	}
 
 }

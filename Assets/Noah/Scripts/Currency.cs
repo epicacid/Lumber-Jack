@@ -1,8 +1,12 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Wallet : MonoBehaviour {
+public class Currency : MonoBehaviour {
 	[SerializeField]
 	private float curCurrency;
+
+	void Start(){
+		curCurrency = 100;
+	}
 
 }
