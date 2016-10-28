@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Noah Scene.unity
+- path: Assets/Noah/Scenes/Noah Test.unity
   isLoaded: 1
   isActive: 1
