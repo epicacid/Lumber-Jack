@@ -10,6 +10,7 @@ public class Currency : MonoBehaviour {
 	void Start(){
 		curCurrency = 100;
 	}
+
 	public int CurCurrency{
 		get{
 			return curCurrency;

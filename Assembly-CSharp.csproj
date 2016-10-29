@@ -48,9 +48,11 @@
      <Compile Include="Assets\Noah\Scripts\ChSpeedUpgrade.cs" />
      <Compile Include="Assets\Noah\Scripts\Currency.cs" />
      <Compile Include="Assets\Noah\Scripts\MouseCamera.cs" />
+     <Compile Include="Assets\Noah\Scripts\MovementUpgrade.cs" />
      <Compile Include="Assets\Noah\Scripts\PlayerMovement.cs" />
      <Compile Include="Assets\Noah\Scripts\PlayerStats.cs" />
-     <Compile Include="Assets\Noah\Scripts\UpgradeButton.cs" />
+     <Compile Include="Assets\Noah\Scripts\RockHoldUpgrade.cs" />
+     <Compile Include="Assets\Noah\Scripts\WoodHoldUpgrade.cs" />
  <Reference Include="UnityEngine.Networking">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
  </Reference>

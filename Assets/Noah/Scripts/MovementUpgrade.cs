@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
-public class ChSpeedUpgrade : MonoBehaviour {
-	
+public class MovementUpgrade: MonoBehaviour {
+
 	PlayerStats player;
 	Currency currency;
 	public void Awake(){
@@ -10,8 +10,7 @@ public class ChSpeedUpgrade : MonoBehaviour {
 	}
 	public void OnClick(){
 		if (currency.CurCurrency >= currency.SellingValue) {
-			player.PlayerChopSpeed += 10;
-			currency.CurCurrency -= 25;
+			player.MovSpeed += 10;
 		} else {
 			Debug.Log ("Not enough currency");
 		}
