@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class PlayerStats : MonoBehaviour {
+public class PlayerManager : MonoBehaviour {
 
 	[SerializeField]
 	private int playerChopSpeed = 10;
@@ -11,12 +11,14 @@ public class PlayerStats : MonoBehaviour {
 	private int rockHold = 10;
 	[SerializeField]
 	private int movSpeed = 10;
+	[SerializeField]
+	private int upgrade = 10;
 
 	public int PlayerChopSpeed{
 		get{
 			return playerChopSpeed;
 		}set{
-			playerChopSpeed = value;
+			playerChopSpeed += value;
 		}
 	}
 	public int WoodHold{
@@ -41,5 +43,3 @@ public class PlayerStats : MonoBehaviour {
 		}
 	}
 }
-
-

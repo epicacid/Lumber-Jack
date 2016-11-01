@@ -1,13 +1,6 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Noah/Scripts/UpgradeButton.cs">
-    <Files>
-      <File FileName="Assets/Noah/Scripts/PlayerStats.cs" Line="11" Column="3" />
-      <File FileName="Assets/Noah/Scripts/UpgradeButton.cs" Line="20" Column="31" />
-      <File FileName="Assets/Noah/Scripts/Currency.cs" Line="26" Column="3" />
-      <File FileName="Assets/Noah/Scripts/ChSpeedUpgrade.cs" Line="18" Column="2" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

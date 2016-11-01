@@ -2,10 +2,10 @@
 using System.Collections;
 public class WoodHoldUpgrade : MonoBehaviour {
 
-	PlayerStats player;
+	PlayerManager player;
 	Currency currency;
 	public void Awake(){
-		player = GameObject.Find("Player").GetComponent<PlayerStats>();
+		player = GameObject.Find("Player").GetComponent<PlayerManager>();
 		currency = GameObject.Find ("Player").GetComponent<Currency>();
 	}
 	public void OnClick(){
