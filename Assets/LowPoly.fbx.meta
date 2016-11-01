@@ -1,0 +1,500 @@
+fileFormatVersion: 2
+guid: 26854c7aa2310ab4d8bf5c728fa32413
+timeCreated: 1477562084
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: arm
+    100002: arm.001
+    100004: Armature
+    100006: Armature.001
+    100008: Bone
+    100010: Bone 1
+    100012: Bone.001
+    100014: Bone.001 1
+    100016: Bone.002
+    100018: Bone.002 1
+    100020: Bone.003
+    100022: Bone.003 1
+    100024: Bone.004
+    100026: Bone.004 1
+    100028: Bone.005
+    100030: Bone.005 1
+    100032: Bone.006
+    100034: Bone.006 1
+    100036: Bone.007
+    100038: Bone.007 1
+    100040: Bone.008
+    100042: Bone.008 1
+    100044: Bone.009
+    100046: Bone.009 1
+    100048: Bone.010
+    100050: Bone.010 1
+    100052: Bone.011
+    100054: Bone.011 1
+    100056: Bone.012
+    100058: Bone.012 1
+    100060: Bone.013
+    100062: Bone.013 1
+    100064: Bone.013_end
+    100066: Bone.013_end 1
+    100068: Bone.014
+    100070: Bone.014 1
+    100072: Bone.014_end
+    100074: Bone.014_end 1
+    100076: Bone.015
+    100078: Bone.015 1
+    100080: Bone.015_end
+    100082: Bone.015_end 1
+    100084: Bone.016
+    100086: Bone.016 1
+    100088: Bone.016_end
+    100090: Bone.016_end 1
+    100092: Bone.017
+    100094: Bone.017 1
+    100096: Bone.017_end
+    100098: Bone.017_end 1
+    100100: Cube
+    100102: Cube.001
+    100104: Cube.002
+    100106: Cube.003
+    100108: Cube.011
+    100110: Cube.013
+    100112: Cube.019
+    100114: Cube.020
+    100116: Cube.021
+    100118: Cube.022
+    100120: Cube_MeshPart0
+    100122: Cube_MeshPart1
+    100124: //RootNode
+    100126: Tree.000
+    100128: Tree.001
+    100130: Tree.002
+    100132: Tree.003
+    100134: Tree.004
+    100136: Tree.005
+    100138: Tree.006
+    100140: Tree.007
+    100142: Tree.008
+    100144: Tree.009
+    100146: Tree.010
+    100148: Tree.011
+    100150: Tree.012
+    100152: Tree.013
+    100154: Tree.014
+    100156: Tree.015
+    100158: Tree.016
+    100160: Tree.017
+    100162: Tree.018
+    100164: Tree.019
+    100166: Tree.020
+    100168: Tree.021
+    100170: Tree.022
+    100172: Tree.023
+    100174: Tree.024
+    100176: Tree.025
+    100178: Tree.026
+    100180: Tree.027
+    100182: Tree.028
+    100184: Tree.029
+    100186: Tree.030
+    100188: Tree.031
+    100190: Tree.032
+    100192: Tree.033
+    100194: Tree.034
+    100196: Tree.035
+    100198: Tree.036
+    100200: Tree.037
+    100202: Tree.038
+    100204: Tree.039
+    100206: Tree.040
+    100208: Tree.041
+    100210: Tree.042
+    100212: Tree.043
+    100214: Tree.044
+    100216: Tree.045
+    100218: Tree.046
+    100220: Tree.047
+    100222: Tree.048
+    100224: Tree.049
+    100226: Tree.050
+    100228: Tree.051
+    100230: Tree.052
+    400000: arm
+    400002: arm.001
+    400004: Armature
+    400006: Armature.001
+    400008: Bone
+    400010: Bone 1
+    400012: Bone.001
+    400014: Bone.001 1
+    400016: Bone.002
+    400018: Bone.002 1
+    400020: Bone.003
+    400022: Bone.003 1
+    400024: Bone.004
+    400026: Bone.004 1
+    400028: Bone.005
+    400030: Bone.005 1
+    400032: Bone.006
+    400034: Bone.006 1
+    400036: Bone.007
+    400038: Bone.007 1
+    400040: Bone.008
+    400042: Bone.008 1
+    400044: Bone.009
+    400046: Bone.009 1
+    400048: Bone.010
+    400050: Bone.010 1
+    400052: Bone.011
+    400054: Bone.011 1
+    400056: Bone.012
+    400058: Bone.012 1
+    400060: Bone.013
+    400062: Bone.013 1
+    400064: Bone.013_end
+    400066: Bone.013_end 1
+    400068: Bone.014
+    400070: Bone.014 1
+    400072: Bone.014_end
+    400074: Bone.014_end 1
+    400076: Bone.015
+    400078: Bone.015 1
+    400080: Bone.015_end
+    400082: Bone.015_end 1
+    400084: Bone.016
+    400086: Bone.016 1
+    400088: Bone.016_end
+    400090: Bone.016_end 1
+    400092: Bone.017
+    400094: Bone.017 1
+    400096: Bone.017_end
+    400098: Bone.017_end 1
+    400100: Cube
+    400102: Cube.001
+    400104: Cube.002
+    400106: Cube.003
+    400108: Cube.011
+    400110: Cube.013
+    400112: Cube.019
+    400114: Cube.020
+    400116: Cube.021
+    400118: Cube.022
+    400120: Cube_MeshPart0
+    400122: Cube_MeshPart1
+    400124: //RootNode
+    400126: Tree.000
+    400128: Tree.001
+    400130: Tree.002
+    400132: Tree.003
+    400134: Tree.004
+    400136: Tree.005
+    400138: Tree.006
+    400140: Tree.007
+    400142: Tree.008
+    400144: Tree.009
+    400146: Tree.010
+    400148: Tree.011
+    400150: Tree.012
+    400152: Tree.013
+    400154: Tree.014
+    400156: Tree.015
+    400158: Tree.016
+    400160: Tree.017
+    400162: Tree.018
+    400164: Tree.019
+    400166: Tree.020
+    400168: Tree.021
+    400170: Tree.022
+    400172: Tree.023
+    400174: Tree.024
+    400176: Tree.025
+    400178: Tree.026
+    400180: Tree.027
+    400182: Tree.028
+    400184: Tree.029
+    400186: Tree.030
+    400188: Tree.031
+    400190: Tree.032
+    400192: Tree.033
+    400194: Tree.034
+    400196: Tree.035
+    400198: Tree.036
+    400200: Tree.037
+    400202: Tree.038
+    400204: Tree.039
+    400206: Tree.040
+    400208: Tree.041
+    400210: Tree.042
+    400212: Tree.043
+    400214: Tree.044
+    400216: Tree.045
+    400218: Tree.046
+    400220: Tree.047
+    400222: Tree.048
+    400224: Tree.049
+    400226: Tree.050
+    400228: Tree.051
+    400230: Tree.052
+    2300000: Cube.001
+    2300002: Cube.002
+    2300004: Cube.003
+    2300006: Cube.011
+    2300008: Cube.013
+    2300010: Cube.019
+    2300012: Cube.020
+    2300014: Cube.021
+    2300016: Cube.022
+    2300018: Cube_MeshPart0
+    2300020: Cube_MeshPart1
+    2300022: Tree.000
+    2300024: Tree.001
+    2300026: Tree.002
+    2300028: Tree.003
+    2300030: Tree.004
+    2300032: Tree.005
+    2300034: Tree.006
+    2300036: Tree.007
+    2300038: Tree.008
+    2300040: Tree.009
+    2300042: Tree.010
+    2300044: Tree.011
+    2300046: Tree.012
+    2300048: Tree.013
+    2300050: Tree.014
+    2300052: Tree.015
+    2300054: Tree.016
+    2300056: Tree.017
+    2300058: Tree.018
+    2300060: Tree.019
+    2300062: Tree.020
+    2300064: Tree.021
+    2300066: Tree.022
+    2300068: Tree.023
+    2300070: Tree.024
+    2300072: Tree.025
+    2300074: Tree.026
+    2300076: Tree.027
+    2300078: Tree.028
+    2300080: Tree.029
+    2300082: Tree.030
+    2300084: Tree.031
+    2300086: Tree.032
+    2300088: Tree.033
+    2300090: Tree.034
+    2300092: Tree.035
+    2300094: Tree.036
+    2300096: Tree.037
+    2300098: Tree.038
+    2300100: Tree.039
+    2300102: Tree.040
+    2300104: Tree.041
+    2300106: Tree.042
+    2300108: Tree.043
+    2300110: Tree.044
+    2300112: Tree.045
+    2300114: Tree.046
+    2300116: Tree.047
+    2300118: Tree.048
+    2300120: Tree.049
+    2300122: Tree.050
+    2300124: Tree.051
+    2300126: Tree.052
+    3300000: Cube.001
+    3300002: Cube.002
+    3300004: Cube.003
+    3300006: Cube.011
+    3300008: Cube.013
+    3300010: Cube.019
+    3300012: Cube.020
+    3300014: Cube.021
+    3300016: Cube.022
+    3300018: Cube_MeshPart0
+    3300020: Cube_MeshPart1
+    3300022: Tree.000
+    3300024: Tree.001
+    3300026: Tree.002
+    3300028: Tree.003
+    3300030: Tree.004
+    3300032: Tree.005
+    3300034: Tree.006
+    3300036: Tree.007
+    3300038: Tree.008
+    3300040: Tree.009
+    3300042: Tree.010
+    3300044: Tree.011
+    3300046: Tree.012
+    3300048: Tree.013
+    3300050: Tree.014
+    3300052: Tree.015
+    3300054: Tree.016
+    3300056: Tree.017
+    3300058: Tree.018
+    3300060: Tree.019
+    3300062: Tree.020
+    3300064: Tree.021
+    3300066: Tree.022
+    3300068: Tree.023
+    3300070: Tree.024
+    3300072: Tree.025
+    3300074: Tree.026
+    3300076: Tree.027
+    3300078: Tree.028
+    3300080: Tree.029
+    3300082: Tree.030
+    3300084: Tree.031
+    3300086: Tree.032
+    3300088: Tree.033
+    3300090: Tree.034
+    3300092: Tree.035
+    3300094: Tree.036
+    3300096: Tree.037
+    3300098: Tree.038
+    3300100: Tree.039
+    3300102: Tree.040
+    3300104: Tree.041
+    3300106: Tree.042
+    3300108: Tree.043
+    3300110: Tree.044
+    3300112: Tree.045
+    3300114: Tree.046
+    3300116: Tree.047
+    3300118: Tree.048
+    3300120: Tree.049
+    3300122: Tree.050
+    3300124: Tree.051
+    3300126: Tree.052
+    4300000: arm.001
+    4300002: arm
+    4300004: Tree.052
+    4300006: Tree.023
+    4300008: Tree.022
+    4300010: Cube_MeshPart0
+    4300012: Cube_MeshPart1
+    4300014: Cube.002
+    4300016: Tree.021
+    4300018: Tree.020
+    4300020: Tree.019
+    4300022: Tree.018
+    4300024: Tree.017
+    4300026: Tree.016
+    4300028: Tree.015
+    4300030: Tree.014
+    4300032: Tree.013
+    4300034: Tree.012
+    4300036: Tree.011
+    4300038: Tree.051
+    4300040: Tree.050
+    4300042: Tree.049
+    4300044: Tree.048
+    4300046: Tree.047
+    4300048: Tree.046
+    4300050: Tree.045
+    4300052: Tree.044
+    4300054: Tree.043
+    4300056: Tree.042
+    4300058: Tree.041
+    4300060: Tree.040
+    4300062: Tree.039
+    4300064: Tree.000
+    4300066: Tree.001
+    4300068: Tree.002
+    4300070: Tree.003
+    4300072: Tree.004
+    4300074: Tree.005
+    4300076: Tree.006
+    4300078: Tree.007
+    4300080: Tree.008
+    4300082: Tree.009
+    4300084: Tree.010
+    4300086: Tree.024
+    4300088: Tree.025
+    4300090: Tree.026
+    4300092: Tree.027
+    4300094: Tree.028
+    4300096: Tree.029
+    4300098: Tree.030
+    4300100: Tree.031
+    4300102: Tree.032
+    4300104: Tree.033
+    4300106: Tree.034
+    4300108: Tree.035
+    4300110: Tree.036
+    4300112: Tree.037
+    4300114: Tree.038
+    4300116: Cube.003
+    4300118: Cube.011
+    4300120: Cube.013
+    4300122: Cube.019
+    4300124: Cube.020
+    4300126: Cube.021
+    4300128: Cube.022
+    4300130: Cube.001
+    9500000: //RootNode
+    13700000: arm
+    13700002: arm.001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
