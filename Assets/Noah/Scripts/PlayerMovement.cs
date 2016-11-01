@@ -11,7 +11,7 @@ public class PlayerMovement : MonoBehaviour {
 	}
 	void FixedUpdate () {
 		if(Input.GetKeyDown(KeyCode.W)){
-			rb.AddForce(transform.forward * playerSpeed * Time.deltaTime);
+			rb.AddForce(Vector3.forward * playerSpeed * Time.deltaTime);
 		}
 		if (Input.GetKeyDown(KeyCode.S)) {
 			rb.AddForce(Vector3.back * playerSpeed * Time.deltaTime);
