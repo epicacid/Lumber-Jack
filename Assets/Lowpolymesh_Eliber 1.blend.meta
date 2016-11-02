@@ -1,0 +1,212 @@
+fileFormatVersion: 2
+guid: 614c618bf05fa7847be3f3e4d96525de
+timeCreated: 1478090682
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Arm__L
+    100002: Arm__R
+    100004: Armature
+    100006: Axe
+    100008: Base_mesh
+    100010: Body
+    100012: Body_control
+    100014: Circle
+    100016: Feet__L
+    100018: Feet__R
+    100020: Feet_top__L
+    100022: Feet_top__R
+    100024: Hand__L
+    100026: Hand__R
+    100028: Head
+    100030: Hip__L
+    100032: Hip__R
+    100034: Icosphere
+    100036: Index_finger_bot__L
+    100038: Index_finger_bot__R
+    100040: Index_finger_mid___R
+    100042: Index_finger_mid__L
+    100044: Index_finger_top___R
+    100046: Index_finger_top__L
+    100048: Leg_bot__L
+    100050: Leg_bot__R
+    100052: Leg_top__L
+    100054: Leg_top__R
+    100056: Little_finger_bot__L
+    100058: Little_finger_mid__L
+    100060: Little_finger_mid__R
+    100062: Little_finger_top__L
+    100064: Little_finger_top__R
+    100066: Little_finget_bot__R
+    100068: //RootNode
+    100070: Middle_finger_bot__L
+    100072: Middle_finger_bot__R
+    100074: Middle_finger_mid__L
+    100076: Middle_finger_mid__R
+    100078: Middle_finger_top__L
+    100080: Middle_finger_top__R
+    100082: Neck
+    100084: PickAxe
+    100086: Ring_finger_bot__L
+    100088: Ring_finger_bot__R
+    100090: Ring_finger_mid__L
+    100092: Ring_finger_mid__R
+    100094: Ring_finger_top__L
+    100096: Ring_finger_top__R
+    100098: Shoulder__L
+    100100: Shoulder__R
+    100102: Sphere
+    100104: Spine_bot
+    100106: Spine_mid
+    100108: Spine_top
+    100110: Thumb_bot__L
+    100112: Thumb_bot__R
+    100114: Thumb_top__L
+    100116: Thumb_top__R
+    100118: Wrist__L
+    100120: Wrist__R
+    400000: Arm__L
+    400002: Arm__R
+    400004: Armature
+    400006: Axe
+    400008: Base_mesh
+    400010: Body
+    400012: Body_control
+    400014: Circle
+    400016: Feet__L
+    400018: Feet__R
+    400020: Feet_top__L
+    400022: Feet_top__R
+    400024: Hand__L
+    400026: Hand__R
+    400028: Head
+    400030: Hip__L
+    400032: Hip__R
+    400034: Icosphere
+    400036: Index_finger_bot__L
+    400038: Index_finger_bot__R
+    400040: Index_finger_mid___R
+    400042: Index_finger_mid__L
+    400044: Index_finger_top___R
+    400046: Index_finger_top__L
+    400048: Leg_bot__L
+    400050: Leg_bot__R
+    400052: Leg_top__L
+    400054: Leg_top__R
+    400056: Little_finger_bot__L
+    400058: Little_finger_mid__L
+    400060: Little_finger_mid__R
+    400062: Little_finger_top__L
+    400064: Little_finger_top__R
+    400066: Little_finget_bot__R
+    400068: //RootNode
+    400070: Middle_finger_bot__L
+    400072: Middle_finger_bot__R
+    400074: Middle_finger_mid__L
+    400076: Middle_finger_mid__R
+    400078: Middle_finger_top__L
+    400080: Middle_finger_top__R
+    400082: Neck
+    400084: PickAxe
+    400086: Ring_finger_bot__L
+    400088: Ring_finger_bot__R
+    400090: Ring_finger_mid__L
+    400092: Ring_finger_mid__R
+    400094: Ring_finger_top__L
+    400096: Ring_finger_top__R
+    400098: Shoulder__L
+    400100: Shoulder__R
+    400102: Sphere
+    400104: Spine_bot
+    400106: Spine_mid
+    400108: Spine_top
+    400110: Thumb_bot__L
+    400112: Thumb_bot__R
+    400114: Thumb_top__L
+    400116: Thumb_top__R
+    400118: Wrist__L
+    400120: Wrist__R
+    2300000: Circle
+    2300002: Icosphere
+    2300004: PickAxe
+    2300006: Sphere
+    3300000: Circle
+    3300002: Icosphere
+    3300004: PickAxe
+    3300006: Sphere
+    4300000: Sphere
+    4300002: Icosphere
+    4300004: Circle
+    4300006: Base_mesh
+    4300008: Axe
+    4300010: PickAxe
+    7400000: Default Take
+    7400002: ArmatureAction
+    9500000: //RootNode
+    13700000: Axe
+    13700002: Base_mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
