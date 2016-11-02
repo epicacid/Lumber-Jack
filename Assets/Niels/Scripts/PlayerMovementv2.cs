@@ -1,52 +1,28 @@
-﻿using UnityEngine;
-using System.Collections;
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
 
-public class PlayerMovementv2 : MonoBehaviour {
+public class PlayerMovementv2 : MonoBehaviour
+{
 
-	
-
-    public float speed;
-    private Rigidbody _rigidbody;
-    private float xInput;
-    private float yInput;
-
-
-
-    void Awake()
-    {
-        _rigidbody = GetComponent<Rigidbody>();
-    }
-
+    public float speed = 6.0F;
+    public float jumpSpeed = 8.0F;
+    public float gravity = 20.0F;
+    private Vector3 moveDirection = Vector3.zero;
 
     void Update()
     {
-
-        xInput = Input.GetAxisRaw("Horizontal");
-        yInput = Input.GetAxisRaw("Vertical");
-
-        Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
-        Plane plane = new Plane(Vector3.up, Vector3.zero);
-        float distance;
-        if (plane.Raycast(ray, out distance))
+        CharacterController controller = GetComponent<CharacterController>();
+        if (controller.isGrounded)
         {
-            Vector3 point = ray.GetPoint(distance);
-            Vector3 adjustedHeightPoint = new Vector3(point.x, transform.position.y, point.z);
-            transform.LookAt(adjustedHeightPoint);
+            moveDirection = new Vector3(Input.GetAxis("Horizontal"), 0, Input.GetAxis("Vertical"));
+            moveDirection = transform.TransformDirection(moveDirection);
+            moveDirection *= speed;
+            if (Input.GetButton("Jump"))
+                moveDirection.y = jumpSpeed;
+
         }
-
+        moveDirection.y -= gravity * Time.deltaTime;
+        controller.Move(moveDirection * Time.deltaTime);
     }
-
-
-
-    // Use this for initialization
-    void FixedUpdate()
-    {
-        Vector3 direction = new Vector3(xInput, 0f, yInput);
-        Vector3 velocity = direction.normalized * speed * Time.fixedDeltaTime;
-        _rigidbody.MovePosition(_rigidbody.position + velocity);
-
-    }
-
-
-
 }

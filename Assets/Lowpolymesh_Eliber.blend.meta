@@ -148,6 +148,7 @@ ModelImporter:
     9500000: //RootNode
     13700000: Axe
     13700002: Base_mesh
+    13700004: PickAxe
   materials:
     importMaterials: 1
     materialName: 0
@@ -173,7 +174,7 @@ ModelImporter:
       name: idle
       takeName: Default Take
       firstFrame: 0
-      lastFrame: 118
+      lastFrame: 157
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -322,7 +323,7 @@ ModelImporter:
     - serializedVersion: 16
       name: walk
       takeName: Default Take
-      firstFrame: 157
+      firstFrame: 165
       lastFrame: 245
       wrapMode: 0
       orientationOffsetY: 0
