@@ -1,7 +1,7 @@
-﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2015
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lumber-Jack.CSharp", "Lumber-Jack.CSharp.csproj", "{A3CE3401-D9F6-7C06-06EE-00E7B8969485}"
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{53F595FD-A80E-9C4F-6177-1932C5E4AFD3}") = "Lumber-Jack", "Assembly-CSharp.csproj", "{77CCA83C-B9CE-C290-7AAF-3E985181A852}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,12 +9,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A3CE3401-D9F6-7C06-06EE-00E7B8969485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A3CE3401-D9F6-7C06-06EE-00E7B8969485}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A3CE3401-D9F6-7C06-06EE-00E7B8969485}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A3CE3401-D9F6-7C06-06EE-00E7B8969485}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77CCA83C-B9CE-C290-7AAF-3E985181A852}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77CCA83C-B9CE-C290-7AAF-3E985181A852}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77CCA83C-B9CE-C290-7AAF-3E985181A852}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77CCA83C-B9CE-C290-7AAF-3E985181A852}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
 	EndGlobalSection
 EndGlobal
