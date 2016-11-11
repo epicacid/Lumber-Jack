@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FirstPCamera" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\FirstPCamera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AxeSwitching" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgAAAAACAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Jeroen\AxeSwitching.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gathering" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUgAAAAAiAABAQAAAAAAAAAABAAAIAAEAgAAAAAAAA=</HashCode>
+      <FileName>Assets\Jeroen\Gathering.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hout" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Jeroen\Hout.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Steen" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Jeroen\Steen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimControllerPlayer" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Assets\Niels\Scripts\AnimControllerPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerMovementv2" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAgAAAAAAQAAAAAAAACAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Niels\Scripts\PlayerMovementv2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChSpeedUpgrade" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAACAAAAAAABAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Noah\Scripts\ChSpeedUpgrade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Currency" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAACAAgAAACAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Noah\Scripts\Currency.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LoadScene" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Noah\Scripts\LoadScene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MouseCamera" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAABAA=</HashCode>
+      <FileName>Assets\Noah\Scripts\MouseCamera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MovementUpgrade" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAACAAAAAAABAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Noah\Scripts\MovementUpgrade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pause" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Noah\Scripts\PauseMenuEnabled.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerManager" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAUAAAAEAAAEAAAAAAAAAAAIAAAEAAAAAEAAAABBAA=</HashCode>
+      <FileName>Assets\Noah\Scripts\PlayerManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerMovement" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAiAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Noah\Scripts\PlayerMovement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RockHoldUpgrade" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAACAAAAAAABAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Noah\Scripts\RockHoldUpgrade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WoodHoldUpgrade" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAACAAAAAAABAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Noah\Scripts\WoodHoldUpgrade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
